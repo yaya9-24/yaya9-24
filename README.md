@@ -8,7 +8,6 @@
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           </div>
     </div>
-    
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=yaya9-24&bg_color=180,19862b,00000000&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaya9-24&layout=compact&bg_color=180,19862b,00000000&title_color=ffffff&text_color=ffffff"
