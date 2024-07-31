@@ -12,7 +12,7 @@
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![oracledb](https://img.shields.io/badge/oracledb-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 
-<hr>
+
 
 **🛠️ Infra and Tools** <br>
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
