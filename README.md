@@ -21,5 +21,5 @@
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaya9-24&bg_color=180,19862b,00000000&title_color=ffffff&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaya9-24&layout=compact&bg_color=180,19862b,00000000&title_color=ffffff&text_color=ffffff)
 ![yaya9-24's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaya9-24&show_icons=true&theme=highcontrast)
